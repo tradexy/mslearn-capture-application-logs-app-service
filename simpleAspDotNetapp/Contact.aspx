@@ -2,16 +2,16 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Contact Contoso Fashions</h3>
+    <h3>John Mosquera Fashions</h3>
     <address>
-        4567 Main St<br />
-         Buffalo, NY 98052<br />
+        56546 Bernardino Street<br />
+         Bufalino, XY 45645<br />
         <abbr title="Phone">P:</abbr>
-        555-0100
+        45654-56784
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@contoso.com">Support@contoso.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@contoso.com">Marketing@contoso.com</a>
+        <strong>Support:</strong>   <a href="mailto:dftopcat@outlook.com">dftopcat@outlook.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:tradexy@outlook.com">tradexy@outlook.com</a>
     </address>
 </asp:Content>
