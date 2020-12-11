@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Contoso Fashions</h3>
-    <p>Contoso Fashions is currently re-branding, and we will be using this as an opportunity to bring new purchasing, tracking, and social media features to our online services.</p>
-    <p>The company has won several prestigious and influential industry and consumer awards for the high standard of our online customer experience.</p>
+    <h3>John Fashionista</h3>
+    <p>Africa’s Talking, a Nairobi, Kenya-based company that provides mobile voice and messaging and payment APIs for large organizations and developers across Africa and the Middle East, is an Azure Arc customer.</p>
+    <p>In the past, the company was updating its applications in a more manual way, but with Azure Arc, it’s able to effectively containerize its applications and deploy them around Africa and the Middle East very quickly and efficiently, according to Shah.</p>
 </asp:Content>
